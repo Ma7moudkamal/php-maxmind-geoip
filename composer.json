@@ -1,0 +1,11 @@
+{
+    "name": "maxromanovsky/php-maxmind-geoip",
+    "version": "1.11",
+    "description": "MaxMind's PHP GeoIP API as a Composer package",
+    "authors": [
+        {
+            "name": "MaxMind, Inc.",
+            "homepage": "http://dev.maxmind.com/geoip/downloadable#PHP-7"
+        }
+    ]
+}
