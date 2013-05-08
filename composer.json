@@ -6,5 +6,8 @@
             "name": "MaxMind, Inc.",
             "homepage": "http://dev.maxmind.com/geoip/downloadable#PHP-7"
         }
-    ]
+    ],
+    "autoload": {
+        "files": ["geoip.inc", "geoipcity.inc"]
+    }
 }
