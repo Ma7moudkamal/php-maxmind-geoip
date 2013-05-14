@@ -1,6 +1,7 @@
 {
     "name": "maxromanovsky/php-maxmind-geoip",
     "description": "MaxMind's PHP GeoIP API as a Composer package",
+    "license": "LGPL-2.1+",
     "authors": [
         {
             "name": "MaxMind, Inc.",
